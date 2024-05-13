@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="187.26115mm"
+   height="23.552481mm"
+   viewBox="0 0 187.26115 23.552481"
+   version="1.1"
+   id="svg40"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="phpfreakz.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview42"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.466344"
+     inkscape:cx="344.73493"
+     inkscape:cy="-20.459047"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs37" />
+  <g
+     inkscape:label="Laag 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-11.233289,-96.53274)">
+    <polygon
+       class="fil1"
+       points="912.52,906.54 814.61,906.54 814.61,1049.29 849.39,1049.29 849.39,991.54 897.87,991.54 897.87,964.49 849.39,964.49 849.39,934.4 912.52,934.4 "
+       id="polygon873"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:nonzero;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(0.15858569,0,0,0.16422125,-53.721822,-52.330609)" />
+    <path
+       class="fil1"
+       d="m 98.620343,111.31728 c 0,-3.2101 1.516087,-4.14582 4.127987,-4.14582 h 1.51608 v -6.05345 c -2.42002,0 -4.386487,1.33699 -5.644067,3.31039 v -3.10976 h -5.515607 v 18.66029 h 5.515607 z"
+       id="path875"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:nonzero;stroke-width:0.161491;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+    <path
+       class="fil1"
+       d="m 114.84208,105.5038 c 1.838,0 3.3858,1.16099 3.3858,3.18458 h -6.90165 c 0.32193,-2.0562 1.70955,-3.18458 3.51585,-3.18458 z m 8.60961,8.09107 h -5.86926 c -0.45038,0.99467 -1.32102,1.79041 -2.87039,1.79041 -1.77299,0 -3.22406,-1.12676 -3.41752,-3.5482 h 12.48069 c 0.065,-0.56256 0.0967,-1.12675 0.0967,-1.6567 0,-5.63701 -3.70932,-9.21945 -8.96643,-9.21945 -5.35227,0 -9.0933,3.64767 -9.0933,9.51785 0,5.86856 3.80447,9.51622 9.0933,9.51622 4.48321,0 7.67713,-2.78508 8.54618,-6.40013 z"
+       id="path877"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:nonzero;stroke-width:0.160807;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+    <path
+       class="fil1"
+       d="m 125.67824,110.44454 c 0,5.83757 3.51425,9.55046 7.90073,9.55046 2.67693,0 4.57996,-1.26046 5.57905,-2.88455 v 2.61876 h 5.51561 v -18.50249 h -5.51561 v 2.62039 c -0.96737,-1.62572 -2.8704,-2.88618 -5.54733,-2.88618 -4.4182,0 -7.93245,3.64767 -7.93245,9.48361 z m 13.47978,0.0343 c 0,2.94976 -1.83801,4.57548 -3.93452,4.57548 -2.06477,0 -3.9345,-1.65833 -3.9345,-4.60973 0,-2.95139 1.86973,-4.54287 3.9345,-4.54287 2.09651,0 3.93452,1.62572 3.93452,4.57712 z"
+       id="path879"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:nonzero;stroke-width:0.160807;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+    <polygon
+       class="fil1"
+       points="1446.5,1020.62 1494.69,963.48 1494.69,935.82 1408.06,935.82 1408.06,964.49 1454.83,964.49 1407.65,1021.64 1407.65,1049.29 1495.71,1049.29 1495.71,1020.62 "
+       id="polygon881"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:nonzero;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(0.15858569,0,0,0.16451995,-53.721822,-52.644118)" />
+    <rect
+       class="fil1"
+       x="148.67159"
+       y="96.572998"
+       width="5.5140243"
+       height="23.338285"
+       id="rect883"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:nonzero;stroke-width:0.156823;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+    <polygon
+       class="fil1"
+       points="1312.96,992.35 1320.98,1003.13 1355.35,1049.29 1398.26,1049.29 1351.08,992.35 1398.26,935.41 1355.35,935.41 1320.98,981.57 "
+       id="polygon885"
+       style="clip-rule:evenodd;fill:#ffffff;fill-rule:nonzero;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(0.15858569,0,0,0.16448952,-53.721822,-52.615053)" />
+    <polygon
+       class="fil2"
+       points="1590.41,992.35 1582.38,1003.13 1548.01,1049.29 1505.1,1049.29 1552.28,992.35 1505.1,935.41 1548.01,935.41 1582.38,981.57 "
+       id="polygon887"
+       style="clip-rule:evenodd;fill:#52aeff;fill-rule:nonzero;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       transform="matrix(0.15858569,0,0,0.16447084,-53.721822,-52.597581)" />
+    <path
+       class="fil2"
+       d="m 16.688637,107.02849 v -5.88266 h 3.771168 c 2.169452,0 3.094006,1.13498 3.094006,2.94133 0,1.80467 -0.924554,2.94133 -3.094006,2.94133 z m 12.415674,-2.94133 c 0,-4.312303 -2.741947,-7.55442 -8.229012,-7.55442 h -9.64201 v 23.46589 h 5.455348 v -8.42353 h 4.186662 c 5.710671,0 8.229012,-3.61103 8.229012,-7.48794 z m 16.779951,15.91147 H 51.33961 V 96.53274 h -5.455348 v 9.19127 h -8.48592 V 96.53274 H 31.94458 v 23.46589 h 5.453762 v -9.66155 h 8.48592 z M 60.77863,107.02849 v -5.88266 h 3.772753 c 2.169453,0 3.094008,1.13498 3.094008,2.94133 0,1.80467 -0.924555,2.94133 -3.094008,2.94133 z m 12.41726,-2.94133 c 0,-4.312303 -2.743533,-7.55442 -8.229012,-7.55442 h -9.64201 v 23.46589 h 5.453762 v -8.42353 h 4.188248 c 5.709085,0 8.229012,-3.61103 8.229012,-7.48794 z"
+       id="path889"
+       style="clip-rule:evenodd;fill:#52aeff;fill-rule:nonzero;stroke-width:0.162336;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+  </g>
+</svg>
